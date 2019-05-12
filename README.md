@@ -4,6 +4,8 @@
 
 Configure and deploy multiple verticles, made with Normal and Reactive Verticles
 
+Vertx version: 3.7.0
+
 Uses vertx-config, RxJava2 (optional)
 
 To run use:
