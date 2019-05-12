@@ -1,0 +1,10 @@
+{
+  "RESTVerticle": {
+    "PORT": 8080,
+    "DB": "MongoDB"
+  },
+  "AuthVerticle": {
+    "PORT": 8081,
+    "DB": "PostgreSQL"
+  }
+}
